@@ -1,1 +1,1 @@
-# food-wastade-reduction
+# food-wastage-reduction
